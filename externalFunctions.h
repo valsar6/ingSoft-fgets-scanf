@@ -1,0 +1,10 @@
+//
+// Created by zioto on 01/05/2018.
+//
+
+#ifndef ESEMPIODIFGETS_EXTERNALFUNCTIONS_H
+#define ESEMPIODIFGETS_EXTERNALFUNCTIONS_H
+#define CHARSIZE 20
+
+char * extReadString();
+#endif //ESEMPIODIFGETS_EXTERNALFUNCTIONS_H
